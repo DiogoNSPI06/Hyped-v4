@@ -1,4 +1,4 @@
-## Hyped v4.0.1 BETA
+## Hyped v4.0.4
 A powerful discord bot for your server! Hyped Bot V4.0
 
 * ⚙️ Ferramentas - Siga os passos abaixo para iniciar o bot
@@ -15,7 +15,7 @@ A powerful discord bot for your server! Hyped Bot V4.0
     "addBot": "<LINK DE ADICIONAR O BOT>"
   },
   "client": {
-    "version": "v4.0.0 <VERSAO DO SEU BOT>",
+    "version": "v4.0.4 <VERSAO DO SEU BOT>",
     "id": "<ID DO SEU BOT>",
     "name": "<NOME DO SEU BOT>",
     "add": "<LINK DE ADICIONAR O BOT>",
